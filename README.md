@@ -1,8 +1,10 @@
-# speaking
+# Public Speaking
 
-# Talks
+Just a collection of talks given by @tylerauerbeck
 
+## Bio
 
+Coming Soon
 
 ## 2020
 
@@ -15,3 +17,10 @@
 ## 2019
 
 **Leveraging Kubernetes and KubeVirt As A Training Platform** @ Abstractions 2020, Pittsburgh,PA
+
+
+## Contact Me
+
+GitHub: https://github.com/tylerauerbeck
+Twitter: https://twitter.com/tylerauerbeck
+Blog: https://dev.to/tylerauerbeck
