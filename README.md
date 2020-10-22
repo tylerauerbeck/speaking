@@ -21,6 +21,6 @@ Coming Soon
 
 ## Contact Me
 
-GitHub: https://github.com/tylerauerbeck
-Twitter: https://twitter.com/tylerauerbeck
-Blog: https://dev.to/tylerauerbeck
+GitHub: https://github.com/tylerauerbeck<br>
+Twitter: https://twitter.com/tylerauerbeck<br>
+Blog: https://dev.to/tylerauerbeck<br>
