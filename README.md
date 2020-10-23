@@ -8,6 +8,8 @@ Coming Soon
 
 ## 2020
 
+**Ask the PM Office Hours - A Guide to Tekton Pipelines for Jenkins Users** -- With Jacob See, Patrick Carney, Siamak Sadeghianfar and Chris Short @ Red Hat OpenShift Twitch Stream, Online
+
 **Open Practice Podcast: CICD** - Open Practice Podcast, Online
 
 **Zero Interaction Deployments** - With Jacob See @ DataDog's Dash, Online
