@@ -4,7 +4,7 @@ Just a collection of talks given by @tylerauerbeck
 
 ## Bio
 
-Coming Soon
+Tyler is an Architect focusing on Site Reliability Engineering (SRE) at Red Hat Open Innovation Labs and helps customers innovate through collaboration on their ambitious ideas by using open source technologies and boostrapping an SRE mindset within product teams.
 
 ## 2020
 
@@ -12,14 +12,16 @@ Coming Soon
 - Recording - https://www.youtube.com/watch?v=bcs4R5_7aKU&t=352s
 
 **Open Practice Podcast: CICD** - Open Practice Podcast, Online
+- Recording - https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
 
 **Zero Interaction Deployments** - With Jacob See @ DataDog's Dash, Online
+- Recording - https://www.youtube.com/watch?v=hGAy7_V5BAI
 
 **Leaving Jenkinsfiles Behind: A Tekton Migration Story** - With Jacob See and Patrick Carney @ Red Hat Summit 2020, Online
 
 ## 2019
 
-**Leveraging Kubernetes and KubeVirt As A Training Platform** @ Abstractions 2020, Pittsburgh,PA
+**Leveraging Kubernetes and KubeVirt As A Training Platform** @ Abstractions II 2019, Pittsburgh,PA
 
 
 ## Contact Me
