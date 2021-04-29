@@ -1,6 +1,6 @@
 # Public Speaking
 
-Just a collection of talks given by @tylerauerbeck
+Just a collection of talks given by [@tylerauerbeck](https://twitter.com/tylerauerbeck)
 
 ## Bio
 
