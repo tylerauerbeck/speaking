@@ -6,6 +6,11 @@ Just a collection of talks given by [@tylerauerbeck](https://twitter.com/tylerau
 
 Tyler is an Architect focusing on Site Reliability Engineering (SRE) at Red Hat Open Innovation Labs and helps customers innovate through collaboration on their ambitious ideas by using open source technologies and boostrapping an SRE mindset within product teams.
 
+## 2021
+
+**Codifying Innovation: Using Error Budgets To Bridge Your Organizational Divide** -- With Cansu Kavili @ WTFisSRE, Online
+- Recording - TBD
+
 ## 2020
 
 **Ask the PM Office Hours - A Guide to Tekton Pipelines for Jenkins Users** -- With Jacob See, Patrick Carney, Siamak Sadeghianfar and Chris Short @ Red Hat OpenShift Twitch Stream, Online
