@@ -8,8 +8,11 @@ Tyler is an Architect focusing on Site Reliability Engineering (SRE) at Red Hat 
 
 ## 2021
 
-**Codifying Innovation: Using Error Budgets To Bridge Your Organizational Divide** -- With Cansu Kavili @ WTFisSRE, Online
+**It wasn't DNS. We checked! Infra CICD with KubeVirt and Tekton** -- With Cansu Kavili @ CDcon, Online
 - Recording - TBD
+
+**Codifying Innovation: Using Error Budgets To Bridge Your Organizational Divide** -- With Cansu Kavili @ WTFisSRE, Online
+- Recording - https://www.youtube.com/watch?v=jThQgPr6uh8
 
 ## 2020
 
