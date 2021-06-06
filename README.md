@@ -4,7 +4,7 @@ Just a collection of talks given by [@tylerauerbeck](https://twitter.com/tylerau
 
 ## Bio
 
-Tyler is an Architect focusing on Site Reliability Engineering (SRE) at Red Hat Open Innovation Labs and helps customers innovate through collaboration on their ambitious ideas by using open source technologies and boostrapping an SRE mindset within product teams.
+Tyler is an Architect focusing on Site Reliability Engineering (SRE) at Red Hat Open Innovation Labs and helps customers innovate through collaboration on their ambitious ideas by using open source technologies and bootstrapping an SRE mindset within product teams.
 
 ## 2021
 
