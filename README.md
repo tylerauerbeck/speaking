@@ -9,7 +9,7 @@ Tyler is an Architect focusing on Site Reliability Engineering (SRE) at Red Hat 
 ## 2021
 
 **It wasn't DNS. We checked! Infra CICD with KubeVirt and Tekton: Ghost Ships** -- with Cansu Kavili @ DevConf.us, Online
-- Recording - TBD
+- Recording - https://www.youtube.com/watch?v=I8pMvwQ4_P4&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=85
 
 **It wasn't DNS. We checked! Infra CICD with KubeVirt and Tekton** -- With Cansu Kavili @ CDcon, Online
 - Recording - https://www.youtube.com/watch?v=uNuWnb2GkIU
